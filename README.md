@@ -4,7 +4,7 @@ This tutorial & exercise, developed in 2024, is designed for trainees interested
 
 You may generally write in one or two languages we mentioned above, but we believe that the learning curve for things you are not that familiar with (but required in this exercise) is reasonable. You are encouraged to search online for learning new tools, and even to ask ChatGPT if necessary, as the ability to search for answers and solve the questions itself is also required in our lab. However, if there is a blocker as you go through the material, please do not hesitate to contact us (rd2972@cumc.columbia.edu).
 
-## Task 1: Unix command shell and command tools
+## Task 1: Unix command shell and install softwares
 
 We assume you are comfortable with command-line interface (on Linux or Mac). In this task you are going to work with git from command shell, set up the computing environment, and install basic softwares and packages needed for data analysis of Tasks 2 and 3.
 
