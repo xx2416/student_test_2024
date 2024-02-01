@@ -20,35 +20,37 @@ Generate a markdown file (using any text editor you prefer), and start with a se
 
 In the same markdown file, the second section would be your answers to the questions about shell commands under `shell_commands/questions.md`. If the answer is a code, put it in the code chunk in markdown.
 
-## Task 2: Jupyter notebook and R/Python
+### SoS
+
+Please install `SoS` on your computer (simply type `pip install sos` in the terminal to install, or, check out here for [alternative installation methods](https://vatlab.github.io/sos-docs/running.html#Local-installation) if you have troubles with that command). 
+
+### Jupyter notebook and R/Python
 
 Please [install jupyter notebook](https://jupyter.org/install) on your own computer, and then download both notebooks under folder `notebook/`. Add a cell at the beginning of each notebook and put your name there.
 
-
-## Task 3: Statistical genetics
+## Task 2: Statistical genetics
 
 The first notebook, `notebook/finemapping.ipynb` is an exercise with the `susieR` package in R. This is somewhat advanced material for those who has a background in statistical genetics.
 
-Please add another section in the notebook after where you put your name, and make the section title "Summary of the SuSiE method". Then take a read at [this paper](https://academic.oup.com/jrsssb/article/82/5/1273/7056114) before you run this notebook to know some basic concepts that we might mention in the notebook. Please then summarise the SuSiE method in a paragraph and describe what it does. 
+### Summary of the SuSiE method
+Please add another section in the notebook after where you put your name, and make the section title "Summary of the SuSiE method". Then take a read at [this paper](https://academic.oup.com/jrsssb/article/82/5/1273/7056114) before you run this notebook to know some basic concepts that we might mention in the notebook. Please then summarise the SuSiE method in a paragraph and describe what it does. You are supposed to summarize it yourself instead of copying content from the abstract directly. You can start the summary after reading the paper but you may also understand it better after you run the notebook.
 
+### Run the notebook
 
+Please follow the instructions in the notebook, and run all the cells. Answer the questions within the notebook directly and keep the code (that you use to get the answer) instead just leaving the answer there.
 
+### Problem-Solving
 
+During the process of running the notebook, you can take some notes and put them into a new section at the end of the notebook, where you can share with us any problem you have and how you solve it (for example, by some QA page on [Stack Overflow](https://stackoverflow.com) or simply get the answer from ChatGPT. 
 
-Please follow the instructions in it and run all the cells. When you run the cells one by one, you can take some notes and put them into a new section at the end of the notebook, where you can share with us any problem you have and how you solve it (for example, by some QA page on [Stack Overflow](https://stackoverflow.com) or simply get the answer from ChatGPT. 
+## Task 3: SoS notebook
 
+In a sos notebook, you can run different kernels for different cells. Please follow the instructions in the notebook `notebook/data_analysis_sos.ipynb` and also add a cell at the beginning with your name. 
 
+Please follow the instructions in it and run all the cells. Feel free to share anything at the end of the notebook as well as you just did for the `notebook/finemapping.ipynb`.
 
-Please follow the instructions and complete the genetic fine-mapping exercise `notebook/finemapping.ipynb`. This is somewhat advanced material for those who has a background in statistical genetics. 
+## Task 4: Report your work and Submission
 
+Organizing and communicating your work with others is essential to your success in conducting reproducible computational research. After you have completed all the tasks above, please make a tarball for the two notebooks and email it to `rd2972@cumc.columbia.edu` for us to review.
 
-
-
-
-
-## Task 3: Jupyter notebook and python
-
-Now please download the notebook `notebook/data_analysis.ipynb` and also add a cell at the beginning with your name.
-
-Please follow the instructions in it and run all the cells. Feel free to share anything at the end of the notebook as well.
 
