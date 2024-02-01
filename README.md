@@ -42,7 +42,7 @@ Please install `SoS` on your computer (simply type `pip install sos` in the term
 
 Please install [jupyter notebook]((https://jupyter.org/install)) on your own computer as well.
 
-#### Task 2: Statistical genetics
+## Task 2: Statistical genetics
 
 The first notebook, `notebook/finemapping.ipynb` is an exercise with the `susieR` package in R. This is somewhat advanced material for those who has a background in statistical genetics.
 
