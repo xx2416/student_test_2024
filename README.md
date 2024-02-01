@@ -45,7 +45,7 @@ During the process of running the notebook, you can take some notes and put them
 
 ## Task 3: SoS notebook
 
-In a sos notebook, you can run different kernels for different cells. Please follow the instructions in the notebook `notebook/data_analysis_sos.ipynb` and also add a cell at the beginning with your name. 
+In a sos notebook, you can run different kernels for different cells. Please follow the instructions in the notebook `notebook/data_analysis_sos.ipynb` and remember to add your name at the beginning of the notebook if you haven't done so. 
 
 Please follow the instructions in it and run all the cells. Feel free to share anything at the end of the notebook as well as you just did for the `notebook/finemapping.ipynb`.
 
