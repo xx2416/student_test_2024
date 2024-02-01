@@ -34,13 +34,13 @@ We strongly encourage you to perform the analysis below under the `pisces-rabbit
 
 #### Option 2 -- manual installation
 
-##### SoS
+##### `SoS`
 
 Please install `SoS` on your computer (simply type `pip install sos` in the terminal to install, or, check out here for [alternative installation methods](https://vatlab.github.io/sos-docs/running.html#Local-installation) if you have troubles with that command). 
 
-##### Jupyter notebook and R/Python
+##### `Jupyter notebook` and `R`/`Python`
 
-Please install [jupyter notebook]((https://jupyter.org/install)) on your own computer as well.
+Please install [`jupyter notebook`](https://jupyter.org/install) on your own computer as well.
 
 ## Task 2: Statistical genetics
 
