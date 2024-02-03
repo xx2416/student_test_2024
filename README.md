@@ -41,17 +41,17 @@ Please note that you can use ChatGPT or other tools to help you understand the m
 
 Please follow the instructions in the notebook, and run all the cells. Answer the questions within the notebook directly and keep the code (that you use to get the answer) instead just leaving the answer there.
 
-### Problem-Solving
+### Problem solving
 
 During the process of running the notebook, you can take some notes and put them into a new section at the end of the notebook, where you can share with us any problem you have and how you solve it (for example, by some QA page on [Stack Overflow](https://stackoverflow.com) or simply get the answer from ChatGPT. 
 
-## Task 3: data analysis in a SoS notebook
+## Task 3: Data analysis in a `SoS` notebook
 
 The second notebook, `notebook/data_analysis_sos.ipynb` is an exercise that cleans a toy data set based on the UKBB, and some analysis on the polygenic risk score (PRS). It involves coding in `Python` in a `SoS` notebook. In a sos notebook, you can run different kernels for different cells. Please follow the instructions in the notebook and remember to add your name at the beginning of the notebook if you haven't done so.
 
 Feel free to share anything at the end of the notebook as well as you just did for the `notebook/finemapping.ipynb`.
 
-## Task 4: Report your work and Submission
+## Task 4: Report your work and submission
 
 Organizing and communicating your work with others is essential to your success in conducting reproducible computational research. After you have completed all the tasks above, please make a tarball for the markdown file and two notebooks and email it to `rd2972@cumc.columbia.edu` for us to review.
 
