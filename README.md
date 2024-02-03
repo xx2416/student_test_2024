@@ -18,7 +18,7 @@ As the next step please [fork](https://docs.github.com/en/free-pro-team@latest/g
 
 Generate a markdown file (using any text editor you prefer), and start with a section about any research project that you have been working on, with at least two subsections, some links, *Italic text* and **bold text** (to highlight some important content) and at least one table or figure. The content of the report would not be considered in the evaluation, but it is important to make sure it is well structured and formatted, and written in English clearly.
 
-In the same markdown file, the second section would be your answers to the questions about shell commands under `shell_commands/questions.md`. If the answer is a code, put it in the code chunk in markdown.
+In the same markdown file, the second section would be your answers to the questions about shell commands in `notebook/shell_questions.md`. If the answer is a code, put it in the code chunk in markdown.
 
 ### Install softwares and setup computing environment
 
@@ -33,7 +33,9 @@ After you setup the computing environment (if in `micromamba`, then remember to 
 The first notebook, `notebook/finemapping.ipynb` is an exercise with the `susieR` package in R. This is somewhat advanced material for those who has a background in statistical genetics.
 
 ### Summary of the SuSiE method
-Please add another section in the notebook after where you put your name, and make the section title "Summary of the SuSiE method". Then take a read at [this paper](https://academic.oup.com/jrsssb/article/82/5/1273/7056114) before you run this notebook to know some basic concepts that we might mention in the notebook. Please then summarise the SuSiE method in a paragraph and describe what it does. You are supposed to summarize it yourself instead of copying content from the abstract directly. You can start the summary after reading the paper but you may also understand it better after you run the notebook.
+Please add another section in the notebook after where you put your name, and make the section title "Summary of the SuSiE method". Then take a read at [this paper](https://academic.oup.com/jrsssb/article/82/5/1273/7056114) before you run this notebook to know some basic concepts that we might mention in the notebook. Please then summarise the SuSiE method in a paragraph and describe what it does. You are supposed to summarize it yourself instead of copying content from the abstract directly. You can start the summary after reading the paper but you may also understand it better after you run the notebook. Feel free to come back and edit this section any time.
+
+Please note that you can use ChatGPT or other tools to help you understand the method, but make sure you understand what you write here -- we may ask you questions based on your response during the interview.
 
 ### Run the notebook
 
