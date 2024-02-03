@@ -22,25 +22,11 @@ In the same markdown file, the second section would be your answers to the quest
 
 ### Install softwares and setup computing environment
 
-We strongly encourage you to setup the computing environment through Option 1 below, but if for some reasons it fails, you can always do Option 2 and install everything manually.
+We strongly encourage you to setup the computing environment through `micromamba` with the instructions [here](https://wanggroup.org/orientation/jupyter-setup). If you succesfully follow it up to install the `pisces-rabbit` part, then you don't need to install `SoS`, `jupyter notebook` and `R/Python` manually.
 
-After you setup the computing environment, please download both notebooks under folder `notebook/` on your own computer and put your name in the filename as `finemapping_JohnSmith.ipynb` and `data_analysis_sos_JohnSmith.ipynb`. 
+If you fail to install through `micromamba`, you shall install `SoS` (simply type `pip install sos` in the terminal to install, or, check out here for [alternative installation methods](https://vatlab.github.io/sos-docs/running.html#Local-installation) if you have troubles with that command), [`jupyter notebook`](https://jupyter.org/install) and you will need `R` and `Python` as well.
 
-#### Option 1 -- `micromamba`
-
-Please install `micromamba` with the instructions [here](https://wanggroup.org/orientation/jupyter-setup). If you succesfully follow it up to install the `pisces-rabbit` part, then you don't need to install `SoS`, `jupyter notebook` and `R/Python` manually.
-
-We strongly encourage you to perform the analysis below under the `pisces-rabbit` environment in `micromamba`.
-
-#### Option 2 -- manual installation
-
-##### `SoS`
-
-Please install `SoS` on your computer (simply type `pip install sos` in the terminal to install, or, check out here for [alternative installation methods](https://vatlab.github.io/sos-docs/running.html#Local-installation) if you have troubles with that command). 
-
-##### `Jupyter notebook` and `R`/`Python`
-
-Please install [`jupyter notebook`](https://jupyter.org/install) on your own computer as well.
+After you setup the computing environment (if in `micromamba`, then remember to activate the `pisces-rabbit` environment first), please download both notebooks under folder `notebook/` and the toy data under `data/` on your own computer and put your name in the filename as `finemapping_JohnSmith.ipynb` and `data_analysis_sos_JohnSmith.ipynb`. 
 
 ## Task 2: Statistical genetics
 
