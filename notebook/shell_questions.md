@@ -4,6 +4,6 @@
 - In the current folder, you have hunderds of files in `.csv`, `.log`, `.out` format.
     - How to count the line numbers of each `.csv` file?
     - How to print the last line of each `.log` file?
-    - How to print a list of `.out` files that contains `Error` somewhere in the file?
+    - How to print a list of `.out` files that contains `Error` somewhere in the file, and also print the line that includes `Error`?
 - How would you print the second column of a space-separated file (for example, `test_data.out`) using `awk`?
 - Describe the difference between `ps`, `top`, `htop` commands.
