@@ -16,7 +16,7 @@ As the next step please [fork](https://docs.github.com/en/free-pro-team@latest/g
 
 ### Markdown and shell
 
-Create a new markdown file (using any text editor you prefer), and start with a section about any research project that you have been working on, with at least two subsections, some links, *Italic text* and **bold text** (to highlight some important content) and at least one table or figure. The content of the report would not be considered in the evaluation, but it is important to make sure it is well structured and formatted, and written in English clearly. This section would be ~300 words.
+Create a new markdown file (using any text editor you prefer) named `research_shell_JohnSmith.md` (replace `JohnSmith` with your name), and start with a section about any research project that you have been working on, with at least two subsections, some links, *Italic text* and **bold text** (to highlight some important content) and at least one table or figure. The content of the report would not be considered in the evaluation, but it is important to make sure it is well structured and formatted, and written in English clearly. This section would be ~300 words.
 
 In the same markdown file, the second section would be your answers to the questions about shell commands in `notebook/shell_questions.md`. If the answer is a code, put it in the code chunk in markdown.
 
