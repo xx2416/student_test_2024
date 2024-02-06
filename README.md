@@ -24,7 +24,7 @@ In the same markdown file, the second section would be your answers to the quest
 
 We strongly encourage you to setup the computing environment through `micromamba` with the instructions [here](https://wanggroup.org/orientation/jupyter-setup). If you succesfully follow it up to install the `pisces-rabbit` part, then you don't need to install `SoS`, `jupyter notebook` and `R/Python` manually.
 
-If you fail to install through `micromamba`, you shall install `SoS` (simply type `pip install sos` in the terminal to install, or, check out here for [alternative installation methods](https://vatlab.github.io/sos-docs/running.html#Local-installation) if you have troubles with that command), [`jupyter notebook`](https://jupyter.org/install) and you will need `R` and `Python` as well.
+If you fail to install through `micromamba`, you shall install [`SoS`](https://vatlab.github.io/sos-docs/running.html#SoS-Workflow) (simply type `pip install sos` in the terminal to install, or, check out here for [alternative installation methods](https://vatlab.github.io/sos-docs/running.html#Local-installation) if you have troubles with that command), [`jupyter notebook`](https://jupyter.org/install) and you will need [`R`](https://www.r-project.org) and [`Python`](https://www.python.org/downloads/) as well.
 
 After you setup the computing environment (if in `micromamba`, remember to activate the `pisces-rabbit` environment first), please download both notebooks under folder `notebook/` and the toy data under `data/` on your own computer and put your name in the filename as `finemapping_JohnSmith.ipynb` and `data_analysis_sos_JohnSmith.ipynb`. 
 
